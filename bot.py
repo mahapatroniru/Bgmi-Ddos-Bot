@@ -28,10 +28,10 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 # ═══════════════ CONFIG ═══════════════
-API_ID = 35140329
-API_HASH = "011f638e4acadee178c59afffc80193d"
-BOT_TOKEN = "8771905727:AAEJq2QVVSe8OxZOqLkatVK1wGysO9UyzCQ"
-OWNER_ID = 1987818347
+API_ID = 952608
+API_HASH = "8d8d0ad8e3d4bcd54420190f57da78ad"
+BOT_TOKEN = "6355112108:AAEcpXqN_E2PXcor_wITv69NOMA1pp_t1h4"
+OWNER_ID = 818269274
 OWNER_USERNAME = "FathersOfCreater"
 OWNER_LINK = f"https://t.me/{OWNER_USERNAME}"
 BOT_USERNAME = "BeStChEaT_BGMIDdos_Bot"
